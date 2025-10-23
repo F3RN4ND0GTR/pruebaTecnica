@@ -1,10 +1,10 @@
-package com.example.demo;
+package es.inditex.pruebatecnica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PruebaTecnicaInditexApplicationTests {
+class PruebatecnicaApplicationTests {
 
 	@Test
 	void contextLoads() {
